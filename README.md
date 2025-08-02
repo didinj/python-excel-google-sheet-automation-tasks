@@ -2,7 +2,7 @@
 
 This project demonstrates how to automate tasks with Microsoft Excel and Google Sheets using Python. It includes practical examples for reading, writing, formatting, and syncing spreadsheet data, complete with error handling and logging.
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/688d70c51ead0015b15a431b/automate-excel-and-google-sheets-tasks-with-python-practical-examples).
 
 ## 🚀 Features
 
@@ -71,4 +71,4 @@ MIT
 
 ---
 
-> Tutorial by [Djamware.com]() - _Automate Excel and Google Sheets Tasks with Python: Practical Examples_
+> Tutorial by [Djamware.com](https://www.djamware.com/post/688d70c51ead0015b15a431b/automate-excel-and-google-sheets-tasks-with-python-practical-examples) - _Automate Excel and Google Sheets Tasks with Python: Practical Examples_
